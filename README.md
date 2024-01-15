@@ -14,6 +14,18 @@ This analysis is based on deriving on the bookings, total number of sales, reven
 ### Insights: 
 1. Total Net Revenue Generated Across the 3 years is 1.27 Million
 2. Year over Year Revenue analysis shows a massive decrease (percentage) in the revenue generated frm 2014 to 2015.
-3. Months like May, November, June, September, March are the least performing months in terms of accumulated revenue. 
+3. Months like May, November, June, September, March are the least performing months in terms of accumulated revenue.
+4. There about 21 cancelled bookings/orders.
+
+# Product Performance Analysis
+This is to analyze the performance of different products in sales in the company. 
+
+![Northwind Sales_page-0002](https://github.com/chrisaliyuda/NorthwindTraders-Sales-Analysis/assets/102206477/3281ef25-14d0-4f89-892c-1ceb1675c17a)
+
+### Insights:
+1. Beverages and Diary Products are the products that gets the most bookings as shown in the bar chart above.
+2. Cote De Blaye is the best performing product while Aniseed Syrup alongside Geitost are the least performing products.
+3. The final chart shows the top most shipped products, this can be affected by the shipping company involved. 
+
 
 
