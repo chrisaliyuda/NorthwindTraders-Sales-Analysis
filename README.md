@@ -38,6 +38,13 @@ This is focused on understanding the company's best customers as it regards to c
 3. Sales reps are our most frequent customers.
 4. Quick Step Company patronises our goods the most: Based on this, further analysis should focus on the kind of products these companies and customers purchase from our company.
 
+# Employee Analysis
+This analysis is shown in a simple table and it contains information on our employees and their managers (except Andrew Fuller) with their respective total revenue generated.
 
+![Northwind Sales_page-0004](https://github.com/chrisaliyuda/NorthwindTraders-Sales-Analysis/assets/102206477/03a6d22a-b107-4a96-a8a1-8aa642639d03)
+
+NB: Employees managed by Laura Callahan are the best performing employees. Kudos to Laura!
+
+Thank you for reading! 
 
 
